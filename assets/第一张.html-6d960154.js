@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6d2220cd","path":"/first/%E7%AC%AC%E4%B8%80%E5%BC%A0.html","title":"页面的标题","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题","description":"页面的描述"},"headers":[],"git":{"updatedTime":1683256985000,"contributors":[{"name":"田伟明","email":"m15143310223@163.com","commits":1}]},"filePathRelative":"first/第一张.md"}');export{t as data};

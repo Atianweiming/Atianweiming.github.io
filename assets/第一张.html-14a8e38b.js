@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as _,R as s}from"./framework-5866ffd3.js";const c={},o=s("p",null,"first.第一张",-1),n=[o];function r(a,l){return t(),_("div",null,n)}const i=e(c,[["render",r],["__file","第一张.html.vue"]]);export{i as default};
