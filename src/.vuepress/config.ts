@@ -37,6 +37,12 @@ export default defineUserConfig({
           formatter: "标签：$content",
         },
       ],
+      locales: {
+        "/": {
+          // 覆盖 placeholder
+          placeholder: "开始搜索",
+        },
+      }
     }),
   ],
   // Enable it with pwa
