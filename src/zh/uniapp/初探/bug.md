@@ -17,3 +17,7 @@ rpx 750 宽度
 uni.css中存在static/uni.ttf引入找不到报错
 ## css排版方式
 使用flex，可以多端适配
+## 快捷键
+- command + R 运行
+- command + N 创建
+- command + u 创建
