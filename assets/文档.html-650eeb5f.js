@@ -1,1 +1,0 @@
-import{_ as t,X as a,Y as c,Z as e,$ as r}from"./framework-b7500404.js";const s={},_=e("h2",{id:"结构",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#结构","aria-hidden":"true"},"#"),r(" 结构")],-1),o=[_];function n(d,i){return a(),c("div",null,o)}const l=t(s,[["render",n],["__file","文档.html.vue"]]);export{l as default};
