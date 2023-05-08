@@ -10,7 +10,7 @@ tag:
 ## 真机模拟
 - android 直接链接真机
 - ios 通过xcode 启动模拟机
-      真机需要 配置自定义基座
+    - 真机需要 配置自定义基座
 ## css单位
 rpx 750 宽度
 ## 通过引入common/uni.css报错
