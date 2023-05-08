@@ -7,7 +7,6 @@ tag:
   - 基础
 ---
 
-# 总结
 ## 真机模拟
 - android 直接链接真机
 - ios 通过xcode 启动模拟机
@@ -16,3 +15,5 @@ tag:
 rpx 750 宽度
 ## 通过引入common/uni.css报错
 uni.css中存在static/uni.ttf引入找不到报错
+## css排版方式
+使用flex，可以多端适配
