@@ -16,6 +16,12 @@ export const zhSidebar = sidebar({
       prefix: "posts/",
       children: "structure",
     },
+    {
+      text: "uniapp探索",
+      icon: "note",
+      prefix: "uniapp/",
+      children: "structure",
+    },
     "intro",
     "slides",
   ],
